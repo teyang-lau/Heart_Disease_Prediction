@@ -21,7 +21,7 @@ This data is shared courtesy of the Cleveland Heart Disease Database via the [UC
 
 ## **EDA** ##
 Among other things, I looked at multicollinearity of the features and some of the relationship with age. Although correlation between variables are not very high, multicollinearity accessed by the variance inflation factor (VIF) is very high.
-<img src = './Pictures/corr_hm.png' width='350'><img src = './Pictures/scatter_reg.png' width='500>
+
 
 
 ## **Outlier removal using mahalanobis distance** ##
