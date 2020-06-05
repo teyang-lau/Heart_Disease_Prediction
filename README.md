@@ -22,11 +22,12 @@ This data is shared courtesy of the Cleveland Heart Disease Database via the [UC
 ## **EDA** ##
 Among other things, I looked at multicollinearity of the features and some of the relationship with age. Although correlation between variables are not very high, multicollinearity accessed by the variance inflation factor (VIF) is very high.
 
-
+<img src = './Pictures/corr_hm.png' width='400'><img src = './Pictures/scatter_reg.png' width='400'>
 
 ## **Outlier removal using mahalanobis distance** ##
 I chose to used mahalanobis distance to remove outliers as it is a multivariate distance measure and more suited for datasets with multiple features.
-<img src = './Pictures/MD.png' width='200>
+
+<img src = './Pictures/MD.png' width='400'>
 
 
 
