@@ -5,7 +5,7 @@
 </p>
 
 <br><br><br>
-### **Please refer to this [notebook]() for a more detailed description, analysis and insights of the project.** ###
+### **Please refer to this [notebook](https://nbviewer.jupyter.org/github/teyang-lau/Heart_Disease_Prediction/blob/master/predictors-of-heart-disease-an-exploration.ipynb) for a more detailed description, analysis and insights of the project.** ###
 
 ## **Project Goals** ##
 1. To **predict** heart disease using different machine learning models and choosing the best performance based on the F1 score.
@@ -48,7 +48,7 @@ To sum up the project, we attempted to predict heart disease using different mac
 
 The second goal was to look at feature importance. Because of high multicollienarity in the features, the feature importance that we obtained from these models should be interpreted cautiously. Nevertheless, it appears that **thalassemia** is consistently the best predictor of heart disease. The number of major blood vessels that are blocked, the type of chest pains, and ST_depression are also good predictors of heart disease.
 
-For a more detailed analyis and description of the project, please refer to this [notebook]()
+For a more detailed analyis and description of the project, please refer to this [notebook](https://nbviewer.jupyter.org/github/teyang-lau/Heart_Disease_Prediction/blob/master/predictors-of-heart-disease-an-exploration.ipynb)
 
 
 
