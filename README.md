@@ -4,7 +4,7 @@
 <img src = './Pictures/heart2.jpg'>
 </p>
 
-<br><br><br>
+<br><br>
 ### **Please refer to this [notebook](https://nbviewer.jupyter.org/github/teyang-lau/Heart_Disease_Prediction/blob/master/predictors-of-heart-disease-an-exploration.ipynb) for a more detailed description, analysis and insights of the project.** ###
 
 ## **Project Goals** ##
