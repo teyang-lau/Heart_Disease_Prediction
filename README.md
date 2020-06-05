@@ -5,6 +5,7 @@
 </p>
 
 <br>
+
 ### **Please refer to this [notebook](https://nbviewer.jupyter.org/github/teyang-lau/Heart_Disease_Prediction/blob/master/predictors-of-heart-disease-an-exploration.ipynb) for a more detailed description, analysis and insights of the project.** ###
 
 ## **Project Goals** ##
