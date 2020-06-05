@@ -19,18 +19,17 @@
 ## **About this dataset** ##
 This data is shared courtesy of the Cleveland Heart Disease Database via the [UCI Machine Learning repository](https://archive.ics.uci.edu/ml/datasets/Heart+Disease). The original dataset contains 76 attributes from 4 studies, but only a subset of 14 from the Cleveland dataset are used by most machine learning practitioners. Thus, we will be using only these 14 features for predicting heart disease.
 
-
 ## **EDA** ##
 Among other things, I looked at multicollinearity of the features and some of the relationship with age. Although correlation between variables are not very high, multicollinearity accessed by the variance inflation factor (VIF) is very high.
-<p float="left">
-<img src = './Pictures/corr_hm.png' width='350'>
-<img src = './Pictures/scatter_reg.png' width='500>
-</p>
+<img src = './Pictures/corr_hm.png' width='350'><img src = './Pictures/scatter_reg.png' width='500>
 
 
 ## **Outlier removal using mahalanobis distance** ##
 I chose to used mahalanobis distance to remove outliers as it is a multivariate distance measure and more suited for datasets with multiple features.
-<img src = './Pictures/MD.png'>
+<img src = './Pictures/MD.png' width='200>
+
+
+
 
 
 
