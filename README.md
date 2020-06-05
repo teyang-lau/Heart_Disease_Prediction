@@ -27,8 +27,11 @@ Among other things, I looked at multicollinearity of the features and some of th
 <img src = './Pictures/scatter_reg.png' width='500>
 </p>
 
+
 ## **Outlier removal using mahalanobis distance** ##
 I chose to used mahalanobis distance to remove outliers as it is a multivariate distance measure and more suited for datasets with multiple features.
 <img src = './Pictures/MD.png'>
+
+
 
 
