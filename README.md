@@ -1,4 +1,11 @@
 # Predicting Heart Disease
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-blue.svg)](https://www.python.org/)
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+[![Generic badge](https://img.shields.io/badge/STATUS-COMPLETED-<COLOR>.svg)](https://shields.io/)
+[![GitHub license](https://img.shields.io/github/license/teyang-lau/covid-19-trends.svg)](https://github.com/teyang-lau/covid-19-trends/blob/master/LICENSE)
+
+Author: TeYang, Lau <br>
+Last Updated: 7 June 2020
 
 <p align="center">
 <img src = './Pictures/heart2.jpg'>
