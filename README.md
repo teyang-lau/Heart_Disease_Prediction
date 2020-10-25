@@ -46,7 +46,7 @@ Thalassemia, number of major blood vessel, type of chest pain and ST depression 
 
 <img src = './Pictures/GB_featureImp.png' width='400'><img src = './Pictures/RD_featureImp.png' width='400'>
 
-SHAP values also came to the same conclusion about feature importance. Higher thalassemia, higher number of major vessels, asymptomatic chest pain and higher ST_depression are all important contributors to heart disease. There also appears to be some interaction between the features such as age and thalassemia in predicting heart disease.
+SHAP values also came to the same conclusion about feature importance. Higher thalassemia, higher number of major vessels, asymptomatic chest pain and higher ST_depression are all important contributors to heart disease. There also appears to be some interaction between the features such as age and thalassemia, in predicting heart disease.
 
 <img src = './Pictures/global_shap.png' width='400'><img src = './Pictures/interaction.png' width='400'>
 
