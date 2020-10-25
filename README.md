@@ -5,7 +5,7 @@
 [![GitHub license](https://img.shields.io/github/license/teyang-lau/Heart_Disease_Prediction.svg)](https://github.com/teyang-lau/Heart_Disease_Prediction/blob/master/LICENSE)
 
 Author: TeYang, Lau <br>
-Last Updated: 7 June 2020
+Last Updated: 25 October 2020
 
 <p align="center">
 <img src = './Pictures/heart2.jpg'>
